@@ -1,0 +1,4 @@
+# FILL THIS IN WITH ITEM DATA
+2 5 1 Pen
+3 5 1 CheatSheet
+4 5 1 TCard

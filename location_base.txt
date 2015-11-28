@@ -1,0 +1,35 @@
+LOCATION -1
+0
+That way is blocked.
+That way is blocked.
+END
+
+LOCATION 1
+5
+This is the starting location.
+This is the starting location, where you start.
+END
+
+LOCATION 2
+0
+This room contains the pen.
+This room contains the pen, where it is located.
+END
+
+LOCATION 3
+0
+This room contains the CheatSheet.
+This room contains the CheatSheet, where it is located.
+END
+
+LOCATION 4
+0
+This room contains the TCard.
+This room contains the TCard, where it is located.
+END
+
+LOCATION 5
+0
+This is the exam room.
+This is the exam room, where you write the exam.
+END

@@ -148,7 +148,7 @@ class World:
         :return:
         '''
 
-        tempfile = open("locations 3")
+        tempfile = open(filename)
         lines = tempfile.readlines()
         tempfile.close
         i=0
